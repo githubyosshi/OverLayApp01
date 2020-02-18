@@ -1,1 +1,4 @@
 # OverLayApp01
+＜アプリ名＞オーバーレイ
+＜機能＞図形を重ねて（オーバーレイ）表示
+＜技術＞⑴addContentViewメソッド　⑵BackViewオブジェクトを生成して画面に表示する　⑶FrontViewとLinearLayout.LayoutParamsオブジェクトを生成　⑷FrontViewとBackViewを重ねて表示する
